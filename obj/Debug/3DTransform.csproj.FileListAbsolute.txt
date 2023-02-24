@@ -1,0 +1,11 @@
+H:\Learn\Shader\3DTransform\bin\Debug\3DTransform.exe.config
+H:\Learn\Shader\3DTransform\bin\Debug\3DTransform.exe
+H:\Learn\Shader\3DTransform\bin\Debug\3DTransform.pdb
+H:\Learn\Shader\3DTransform\obj\Debug\3DTransform.csproj.AssemblyReference.cache
+H:\Learn\Shader\3DTransform\obj\Debug\3DTransform.csproj.SuggestedBindingRedirects.cache
+H:\Learn\Shader\3DTransform\obj\Debug\_3DTransform.Form1.resources
+H:\Learn\Shader\3DTransform\obj\Debug\_3DTransform.Properties.Resources.resources
+H:\Learn\Shader\3DTransform\obj\Debug\3DTransform.csproj.GenerateResource.cache
+H:\Learn\Shader\3DTransform\obj\Debug\3DTransform.csproj.CoreCompileInputs.cache
+H:\Learn\Shader\3DTransform\obj\Debug\3DTransform.exe
+H:\Learn\Shader\3DTransform\obj\Debug\3DTransform.pdb
